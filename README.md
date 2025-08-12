@@ -52,12 +52,23 @@ COINGECKO_API_KEY=your_api_key_here
 
 ## Usage
 
+### Local Development
 Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
 
 The application will be available at `http://localhost:8501`
+
+### Streamlit Cloud Deployment
+This app is configured for deployment on Streamlit Cloud. To deploy:
+
+1. **Fork this repository** to your GitHub account
+2. **Sign up for Streamlit Cloud** at https://share.streamlit.io/
+3. **Connect your GitHub account** and select this repository
+4. **Deploy** - Streamlit Cloud will automatically detect the app and deploy it
+
+**Live Demo**: [Coming soon - will be available after deployment]
 
 ## Configuration
 

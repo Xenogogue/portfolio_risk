@@ -61,3 +61,4 @@ cache/
 
 # Secrets
 secrets.toml
+.streamlit/secrets.toml

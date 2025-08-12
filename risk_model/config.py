@@ -1,5 +1,5 @@
 MODEL_PORTFOLIO = [
-    {"token": "BUIDL/USDY", "coingecko": None,           "defillama": None,       "alloc_pct": 20, "stable": True},
+    {"token": "BUIDL/USDY", "coingecko": "ondo-us-dollar-yield",           "defillama": None,       "alloc_pct": 20, "stable": True},
     {"token": "USDC",       "coingecko": "usd-coin",     "defillama": None,       "alloc_pct": 10, "stable": True},
     {"token": "BTC",        "coingecko": "bitcoin",      "defillama": None,       "alloc_pct": 20, "stable": False},
     {"token": "ETH",        "coingecko": "ethereum",     "defillama": None,       "alloc_pct": 15, "stable": False},
